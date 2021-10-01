@@ -2,7 +2,7 @@
 
 Hello friends, This is my first e-commerce project. This is free. Anybody can use and moderate this project.
 
-##About
+## About
 
 1- It is a responsive webpage containing nice frontend.
 
@@ -20,9 +20,9 @@ Hello friends, This is my first e-commerce project. This is free. Anybody can us
 
 8- A good footer with contact me button.
 
-##Platform used
+## Platform used
 
-#Front-End
+# Front-End
 
 (i) React
 
@@ -34,7 +34,7 @@ Hello friends, This is my first e-commerce project. This is free. Anybody can us
 
 (v) BootStrap
 
-#Back-End
+# Back-End
 
 (i) Expressjs
 
@@ -42,9 +42,9 @@ Hello friends, This is my first e-commerce project. This is free. Anybody can us
 
 (iii)MongoDB
 
-##Key Features
+## Key Features
 
-#Public User
+# Public User
 
 (i) View Product
 
@@ -62,7 +62,7 @@ Hello friends, This is my first e-commerce project. This is free. Anybody can us
 
 (v)Can Contact Using Contact Form And Share The Issue
 
-##Admin
+## Admin
 
 (i) View Products
 
@@ -82,6 +82,6 @@ Hello friends, This is my first e-commerce project. This is free. Anybody can us
 
 (ix) See All Categories,Products And Orders
 
-##Conclusion
+## Conclusion
 
 This compelete project is known as a MERN project. Feel free to use this project.
