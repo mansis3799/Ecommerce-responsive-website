@@ -1,0 +1,25 @@
+.btn,
+.jumbotron,
+.nav :hover {
+  border-radius: 0px;
+  color:aqua;
+}
+
+body {
+  background: #343a40;
+}
+
+.colour{
+  color:aqua;
+}
+
+/* footer{
+  position:relative;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+} */
+
+.list-group{
+  list-style: none;
+}
